@@ -19,3 +19,11 @@
 + addition of 2 numbers using pointers
 
 + maximum no between using pointer 
+
++ store elements in aray and print using pointers
+
++ call by reference
+
++ dynamic memory
+
++ length of string using pointers
