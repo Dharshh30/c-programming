@@ -27,3 +27,7 @@
 + dynamic memory
 
 + length of string using pointers
+
++ swapping
+
++ factorial using pointers
