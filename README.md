@@ -37,3 +37,5 @@
 + input student data using pointers
 
 + structure as function arguements
+
++ union and display
