@@ -39,3 +39,17 @@
 + structure as function arguements
 
 + union and display
+
++ marks using structure
+
++ reverse number using loop
+
++ display info of students using union
+
++ subracting complex numbers
+
++ multiplication of complex numbers
+
++ addition using complex
+
++ 
