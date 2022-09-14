@@ -31,3 +31,9 @@
 + swapping
 
 + factorial using pointers
+
++ structure
+
++ input student data using pointers
+
++ structure as function arguements
