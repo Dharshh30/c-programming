@@ -62,3 +62,4 @@
 
 + store info of students using structure
 
++ write a sentence to file
