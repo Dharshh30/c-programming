@@ -63,3 +63,26 @@
 + store info of students using structure
 
 + write a sentence to file
+
++ append file
+
+merge file
+
+file manipulation
+
+average grade
+
+contents from keyboard
+
+copy file 
+
+display file
+
+handling file 
+
+reverse char file
+
+roll number read name
+
+student file
+
