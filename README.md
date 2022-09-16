@@ -52,4 +52,13 @@
 
 + addition using complex
 
-+ 
++ prime numbers using functions
+
++ sum of natural numbers using recursion
+
++ add 2 matrices using multidimensional array
+
++ largest number using dynamic memory allocation
+
++ store info of students using structure
+
